@@ -1,1 +1,3 @@
-# PY_ML_music-predictor
+# Music-Predictor
+
+- utilizes sklearn DecisionTreeClassifier to train model & predict music preference based on age & gender.
